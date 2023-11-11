@@ -209,6 +209,7 @@ int main()
                 printf("Enter data to insert at the middle: ");
                 scanf("%d", &data);
                 insertMid(data);
+                break;
             case 6:
                 printf("Enter the size of the array: ");
                 scanf("%d", &n);
