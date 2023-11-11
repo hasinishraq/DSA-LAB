@@ -100,7 +100,7 @@ void insertSecondLast(int data) {
     current->next = newNode;
 }
 
-//Find the maximum
+//Find the maximum element
 void findMax() {
     if (head == NULL) {
         printf("List is empty.\n");
